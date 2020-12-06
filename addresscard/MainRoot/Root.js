@@ -8,8 +8,8 @@ export default function Root() {
   return (
     <View>
       {/* <FeedScreen/> */}
-      {/* <Address /> */}
-      <CreateFeed/>
+      <Address />
+      {/* <CreateFeed/> */}
       {/* <Feed/> */}
     </View>
   );
