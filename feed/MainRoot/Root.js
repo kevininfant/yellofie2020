@@ -7,9 +7,9 @@ import Feed from "../Screens/feed";
 export default function Root() {
   return (
     <View>
-      {/* <FeedScreen/> */}
+      <FeedScreen/>
       {/* <Address /> */}
-      <CreateFeed/>
+      {/* <CreateFeed/> */}
       {/* <Feed/> */}
     </View>
   );
